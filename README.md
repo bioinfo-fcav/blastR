@@ -1,5 +1,5 @@
 # blastR
-A fork of BlastR: A tool for searching and clustering RNA
+A fork of BlastR: A tool for searching and clustering RNA. This fork adds extra scripts to enable BlastR analysis using diamond search engine. 
 
 BlastR is a new method for searching Non-Coding RNAs in databases. The strategy we adopted relies on the use of the mutual information embedded in di-nucleotides. We have shown that this approach has better sensitivity and specifity than other softwares with comparable computational cost. BlastR package is a perl wrapper for BlastP and it is part of the T-Coffee distribution. 
 
